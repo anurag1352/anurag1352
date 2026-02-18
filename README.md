@@ -87,10 +87,9 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anurag1352/anurag1352/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://anurag1352.github.io/anurag1352/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 ## 📌 Pinned Projects
 
