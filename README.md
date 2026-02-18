@@ -5,7 +5,7 @@ AWS | CI/CD | Terraform | Docker | Kubernetes | Automation
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:6366F1&height=170&section=header&text=Chandika%20Lakshmi%20Sriram&fontSize=48&fontColor=FFFFFF&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:6366F1&height=170&section=header&text=Anurag&fontSize=48&fontColor=FFFFFF&fontAlignY=35" />
 </p>
 
 <!-- Typing Header -->
