@@ -9,18 +9,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: anurag1352
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2322c55e&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+          outputs: "dist/github-contribution-grid-snake.svg?palette=github,dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2322c55e&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353"
 
       - name: Push Snake Files
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: gh-pages
           build_dir: dist
+          commit_message: "Update Snake Graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
