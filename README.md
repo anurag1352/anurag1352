@@ -15,8 +15,8 @@ AWS | CI/CD | Terraform | Docker | Kubernetes | Automation
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramch163&label=Profile+Views&style=for-the-badge&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/sriramch163?style=for-the-badge&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=anurag1352&label=Profile+Views&style=for-the-badge&color=22c55e" />
+  <img src="https://img.shields.io/github/followers/anurag1352?style=for-the-badge&color=6366f1" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0ea5e9?style=for-the-badge&logo=linkedin" />
 </p>
 
@@ -83,11 +83,11 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ## 📈 Git Contribution Work
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramch163&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag1352&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/anurag1352/anurag1352/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -117,12 +117,12 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramch163&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sriramch163&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag1352&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag1352&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramch163&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag1352&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
@@ -132,9 +132,9 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="mailto:sriramch584@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:anurag13520@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sriramch163"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/anurag1352"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
